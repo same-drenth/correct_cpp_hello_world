@@ -1,7 +1,7 @@
 #include <iostream>
 
-/// hello_world main function
+// 'Hello world' project
 int main()
-{
-  std::cout << "Hello world\n";
+{	
+  std::cout <<"Hello world" << "\n";   
 }
